@@ -1,0 +1,15 @@
+..\OBJ\flashrw.o: ..\HARDWARE\FLASHRW\flashrw.c
+..\OBJ\flashrw.o: ..\HARDWARE\FLASHRW\flashrw.h
+..\OBJ\flashrw.o: ..\USER\stm32f10x.h
+..\OBJ\flashrw.o: ..\CORE\core_cm3.h
+..\OBJ\flashrw.o: d:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\flashrw.o: ..\USER\system_stm32f10x.h
+..\OBJ\flashrw.o: ..\USER\stm32f10x_conf.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\OBJ\flashrw.o: ..\USER\stm32f10x.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\flashrw.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
